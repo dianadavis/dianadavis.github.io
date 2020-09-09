@@ -1,0 +1,81 @@
+<html><title>Running Calculators</title>
+<p align=center><font size=5>Running Calculators</font><br>
+Because running is more fun than arithmetic.</p>
+<script language="javascript">
+<!-- begin 
+function pace() {
+
+a=eval(document.form.a.value); //mile guess
+b=eval(document.form.b.value); //time run hours
+c=eval(document.form.c.value); //time run minutes
+d=eval(document.form.d.value); //time run seconds
+
+amtwo=a-0.2;
+amone=a-0.1;
+apone=a+0.1;
+aptwo=a+0.2;
+
+emtwo=((60*b+c+d/60)/amtwo);  //pace with decimal
+fmtwo=Math.floor(emtwo);     //whole number minutes
+gmtwo=(emtwo-fmtwo)*60;          //seconds with decimal
+hmtwo=Math.round(gmtwo);     //whole number seconds
+
+emone=((60*b+c+d/60)/amone);  //pace with decimal
+fmone=Math.floor(emone);     //whole number minutes
+gmone=(emone-fmone)*60;          //seconds with decimal
+hmone=Math.round(gmone);     //whole number seconds
+
+e=((60*b+c+d/60)/a);  //pace with decimal
+f=Math.floor(e);     //whole number minutes
+g=(e-f)*60;          //seconds with decimal
+h=Math.round(g);     //whole number seconds
+
+epone=((60*b+c+d/60)/apone);  //pace with decimal
+fpone=Math.floor(epone);     //whole number minutes
+gpone=(epone-fpone)*60;          //seconds with decimal
+hpone=Math.round(gpone);     //whole number seconds
+
+eptwo=((60*b+c+d/60)/aptwo);  //pace with decimal
+fptwo=Math.floor(eptwo);     //whole number minutes
+gptwo=(eptwo-fptwo)*60;          //seconds with decimal
+hptwo=Math.round(gptwo);     //whole number seconds
+
+document.form.minmtwo.value=fmtwo;
+document.form.secmtwo.value=hmtwo;
+document.form.distmtwo.value=amtwo;
+
+document.form.minmone.value=fmone;
+document.form.secmone.value=hmone;
+document.form.distmone.value=amone;
+
+document.form.min.value=f;
+document.form.sec.value=h;
+document.form.dist.value=a;
+
+document.form.minpone.value=fpone;
+document.form.secpone.value=hpone;
+document.form.distpone.value=apone;
+
+document.form.minptwo.value=fptwo;
+document.form.secptwo.value=hptwo;
+document.form.distptwo.value=aptwo; }
+
+//end -->
+</script>
+
+<form name="form">
+<font size=4><b>How fast did you go?</b></font><br>
+If you ran about <input type="text" name="a" size="2"> miles in <input type="text" name="b" size="2"> hours, <input type="text" name="c" size="2"> minutes and <input type="text" name="d" size="2"> seconds,<br>
+
+you ran at possible paces of <input type="button" value="Calculate" onClick="pace();"> :
+<br><input type="text" name="distmtwo" size="3"> miles: <input type="text" name="minmtwo" size="2"> : <input type="text" name="secmtwo" size="2">; <br>
+<br><input type="text" name="distmone" size="3"> miles: <input type="text" name="minmone" size="2"> : <input type="text" name="secmone" size="2">;<br>
+<br><input type="text" name="dist" size="3"> miles: <input type="text" name="min" size="2"> : <input type="text" name="sec" size="2">;<br>
+<br><input type="text" name="distpone" size="3"> miles: <input type="text" name="minpone" size="2"> : <input type="text" name="secpone" size="2">;<br>
+<br><input type="text" name="distptwo" size="3"> miles: <input type="text" name="minptwo" size="2"> : <input type="text" name="secptwo" size="2">;<br>
+
+
+</form>
+</p><p><p>
+</p><p align=center><a href="http://www.math.northwestern.edu/~diana/">Home</a></p>
+</html>

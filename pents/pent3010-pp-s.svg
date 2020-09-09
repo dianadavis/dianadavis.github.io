@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (http://matplotlib.org/) -->
+<svg height="113pt" version="1.1" viewBox="0 0 118 113" width="118pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 113.00554 
+L 118.08 113.00554 
+L 118.08 0 
+L 0 0 
+L 0 113.00554 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 105.80554 
+L 110.88 105.80554 
+L 110.88 7.2 
+L 7.2 7.2 
+L 7.2 105.80554 
+z
+" style="fill:none;"/>
+   </g>
+   <g id="line2d_1">
+    <path clip-path="url(#pdf99446062)" d="M 98.191831 74.228809 
+L 23.648832 85.80294 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_2">
+    <path clip-path="url(#pdf99446062)" d="M 23.648832 85.80294 
+L 105.020623 44.029683 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_3">
+    <path clip-path="url(#pdf99446062)" d="M 105.020623 44.029683 
+L 102.072026 62.286796 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_4">
+    <path clip-path="url(#pdf99446062)" d="M 102.072026 62.286796 
+L 81.64808 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_5">
+    <path clip-path="url(#pdf99446062)" d="M 81.64808 102.674279 
+L 41.530769 23.344005 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_6">
+    <path clip-path="url(#pdf99446062)" d="M 41.530769 23.344005 
+L 96.85757 78.335242 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_7">
+    <path clip-path="url(#pdf99446062)" d="M 96.85757 78.335242 
+L 24.854933 89.514936 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_8">
+    <path clip-path="url(#pdf99446062)" d="M 24.854933 89.514936 
+L 106.912391 47.389683 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_9">
+    <path clip-path="url(#pdf99446062)" d="M 106.912391 47.389683 
+L 105.325113 44.250907 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_10">
+    <path clip-path="url(#pdf99446062)" d="M 105.325113 44.250907 
+L 29.054514 32.408535 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_11">
+    <path clip-path="url(#pdf99446062)" d="M 29.054514 32.408535 
+L 21.499464 79.187863 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_12">
+    <path clip-path="url(#pdf99446062)" d="M 21.499464 79.187863 
+L 45.129197 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_13">
+    <path clip-path="url(#pdf99446062)" d="M 45.129197 102.674279 
+L 104.507056 43.656554 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_14">
+    <path clip-path="url(#pdf99446062)" d="M 104.507056 43.656554 
+L 74.661799 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_15">
+    <path clip-path="url(#pdf99446062)" d="M 74.661799 102.674279 
+L 36.421644 27.056002 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_16">
+    <path clip-path="url(#pdf99446062)" d="M 36.421644 27.056002 
+L 94.69869 84.97959 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_17">
+    <path clip-path="url(#pdf99446062)" d="M 94.69869 84.97959 
+L 26.806445 95.521073 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_18">
+    <path clip-path="url(#pdf99446062)" d="M 26.806445 95.521073 
+L 104.179515 55.80061 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_19">
+    <path clip-path="url(#pdf99446062)" d="M 104.179515 55.80061 
+L 94.281137 36.226989 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_20">
+    <path clip-path="url(#pdf99446062)" d="M 94.281137 36.226989 
+L 36.209276 27.210296 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_21">
+    <path clip-path="url(#pdf99446062)" d="M 36.209276 27.210296 
+L 25.717887 92.170834 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_22">
+    <path clip-path="url(#pdf99446062)" d="M 25.717887 92.170834 
+L 36.285425 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_23">
+    <path clip-path="url(#pdf99446062)" d="M 36.285425 102.674279 
+L 99.397931 39.944558 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_24">
+    <path clip-path="url(#pdf99446062)" d="M 99.397931 39.944558 
+L 67.675518 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_25">
+    <path clip-path="url(#pdf99446062)" d="M 67.675518 102.674279 
+L 31.31252 30.767998 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_26">
+    <path clip-path="url(#pdf99446062)" d="M 31.31252 30.767998 
+L 92.539811 91.623938 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_27">
+    <path clip-path="url(#pdf99446062)" d="M 92.539811 91.623938 
+L 28.757957 101.527209 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_28">
+    <path clip-path="url(#pdf99446062)" d="M 28.757957 101.527209 
+L 101.446639 64.211538 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_29">
+    <path clip-path="url(#pdf99446062)" d="M 101.446639 64.211538 
+L 83.237162 28.203072 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_30">
+    <path clip-path="url(#pdf99446062)" d="M 83.237162 28.203072 
+L 43.364038 22.012058 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_31">
+    <path clip-path="url(#pdf99446062)" d="M 43.364038 22.012058 
+L 30.336764 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_32">
+    <path clip-path="url(#pdf99446062)" d="M 30.336764 102.674279 
+L 20.045657 38.953853 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_33">
+    <path clip-path="url(#pdf99446062)" d="M 20.045657 38.953853 
+L 96.843369 78.378947 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_34">
+    <path clip-path="url(#pdf99446062)" d="M 96.843369 78.378947 
+L 17.219647 66.015943 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_35">
+    <path clip-path="url(#pdf99446062)" d="M 17.219647 66.015943 
+L 67.076393 16.461586 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_36">
+    <path clip-path="url(#pdf99446062)" d="M 67.076393 16.461586 
+L 26.91972 95.869696 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_37">
+    <path clip-path="url(#pdf99446062)" d="M 26.91972 95.869696 
+L 40.174638 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_38">
+    <path clip-path="url(#pdf99446062)" d="M 40.174638 102.674279 
+L 98.713764 72.622465 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_39">
+    <path clip-path="url(#pdf99446062)" d="M 98.713764 72.622465 
+L 72.193187 20.179154 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_40">
+    <path clip-path="url(#pdf99446062)" d="M 72.193187 20.179154 
+L 50.5188 16.813819 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_41">
+    <path clip-path="url(#pdf99446062)" d="M 50.5188 16.813819 
+L 36.651989 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_42">
+    <path clip-path="url(#pdf99446062)" d="M 36.651989 102.674279 
+L 25.697677 34.84742 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_43">
+    <path clip-path="url(#pdf99446062)" d="M 25.697677 34.84742 
+L 98.794881 72.372811 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_44">
+    <path clip-path="url(#pdf99446062)" d="M 98.794881 72.372811 
+L 15.060768 59.371595 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_45">
+    <path clip-path="url(#pdf99446062)" d="M 15.060768 59.371595 
+L 61.967268 12.749589 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_46">
+    <path clip-path="url(#pdf99446062)" d="M 61.967268 12.749589 
+L 24.186844 87.458769 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_47">
+    <path clip-path="url(#pdf99446062)" d="M 24.186844 87.458769 
+L 53.825742 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_48">
+    <path clip-path="url(#pdf99446062)" d="M 53.825742 102.674279 
+L 95.980888 81.033392 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_49">
+    <path clip-path="url(#pdf99446062)" d="M 95.980888 81.033392 
+L 61.149212 12.155236 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_50">
+    <path clip-path="url(#pdf99446062)" d="M 61.149212 12.155236 
+L 57.673562 11.61558 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_51">
+    <path clip-path="url(#pdf99446062)" d="M 57.673562 11.61558 
+L 42.967215 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_52">
+    <path clip-path="url(#pdf99446062)" d="M 42.967215 102.674279 
+L 31.349697 30.740987 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_53">
+    <path clip-path="url(#pdf99446062)" d="M 31.349697 30.740987 
+L 100.746393 66.366675 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_54">
+    <path clip-path="url(#pdf99446062)" d="M 100.746393 66.366675 
+L 12.901888 52.727247 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_55">
+    <path clip-path="url(#pdf99446062)" d="M 12.901888 52.727247 
+L 45.001321 20.822502 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_56">
+    <path clip-path="url(#pdf99446062)" d="M 45.001321 20.822502 
+L 61.453701 12.376461 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_57">
+    <path clip-path="url(#pdf99446062)" d="M 61.453701 12.376461 
+L 46.870239 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_58">
+    <path clip-path="url(#pdf99446062)" d="M 46.870239 102.674279 
+L 34.842838 28.203072 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_59">
+    <path clip-path="url(#pdf99446062)" d="M 34.842838 28.203072 
+L 101.952494 62.654678 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_60">
+    <path clip-path="url(#pdf99446062)" d="M 101.952494 62.654678 
+L 11.567628 48.620814 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_61">
+    <path clip-path="url(#pdf99446062)" d="M 11.567628 48.620814 
+L 24.684355 35.583642 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_62">
+    <path clip-path="url(#pdf99446062)" d="M 24.684355 35.583642 
+L 64.946841 14.914376 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_63">
+    <path clip-path="url(#pdf99446062)" d="M 64.946841 14.914376 
+L 50.773263 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_64">
+    <path clip-path="url(#pdf99446062)" d="M 50.773263 102.674279 
+L 38.335978 25.665157 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_65">
+    <path clip-path="url(#pdf99446062)" d="M 38.335978 25.665157 
+L 103.158595 58.942682 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_66">
+    <path clip-path="url(#pdf99446062)" d="M 103.158595 58.942682 
+L 12.012114 44.790564 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_67">
+    <path clip-path="url(#pdf99446062)" d="M 12.012114 44.790564 
+L 11.451323 48.262866 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_68">
+    <path clip-path="url(#pdf99446062)" d="M 11.451323 48.262866 
+L 66.194762 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_69">
+    <path clip-path="url(#pdf99446062)" d="M 66.194762 102.674279 
+L 99.803125 69.269755 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_70">
+    <path clip-path="url(#pdf99446062)" d="M 99.803125 69.269755 
+L 94.491238 36.379637 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_71">
+    <path clip-path="url(#pdf99446062)" d="M 94.491238 36.379637 
+L 11.763793 49.224549 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_72">
+    <path clip-path="url(#pdf99446062)" d="M 11.763793 49.224549 
+L 70.598861 19.020809 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_73">
+    <path clip-path="url(#pdf99446062)" d="M 70.598861 19.020809 
+L 57.088488 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_74">
+    <path clip-path="url(#pdf99446062)" d="M 57.088488 102.674279 
+L 43.987998 21.558724 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_75">
+    <path clip-path="url(#pdf99446062)" d="M 43.987998 21.558724 
+L 105.110106 52.936545 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_76">
+    <path clip-path="url(#pdf99446062)" d="M 105.110106 52.936545 
+L 19.166876 39.592325 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_77">
+    <path clip-path="url(#pdf99446062)" d="M 19.166876 39.592325 
+L 15.669746 61.245838 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_78">
+    <path clip-path="url(#pdf99446062)" d="M 15.669746 61.245838 
+L 57.35099 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_79">
+    <path clip-path="url(#pdf99446062)" d="M 57.35099 102.674279 
+L 104.021548 56.286784 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_80">
+    <path clip-path="url(#pdf99446062)" d="M 104.021548 56.286784 
+L 101.646 41.577875 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_81">
+    <path clip-path="url(#pdf99446062)" d="M 101.646 41.577875 
+L 13.715305 55.230685 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_82">
+    <path clip-path="url(#pdf99446062)" d="M 13.715305 55.230685 
+L 76.250881 23.127242 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_83">
+    <path clip-path="url(#pdf99446062)" d="M 76.250881 23.127242 
+L 63.403713 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_84">
+    <path clip-path="url(#pdf99446062)" d="M 63.403713 102.674279 
+L 49.640018 17.452291 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_85">
+    <path clip-path="url(#pdf99446062)" d="M 49.640018 17.452291 
+L 107.061618 46.930409 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_86">
+    <path clip-path="url(#pdf99446062)" d="M 107.061618 46.930409 
+L 26.321638 34.394086 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_87">
+    <path clip-path="url(#pdf99446062)" d="M 26.321638 34.394086 
+L 19.888169 74.228809 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_88">
+    <path clip-path="url(#pdf99446062)" d="M 19.888169 74.228809 
+L 48.507218 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_89">
+    <path clip-path="url(#pdf99446062)" d="M 48.507218 102.674279 
+L 106.458568 45.074411 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_90">
+    <path clip-path="url(#pdf99446062)" d="M 106.458568 45.074411 
+L 77.330321 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_91">
+    <path clip-path="url(#pdf99446062)" d="M 77.330321 102.674279 
+L 38.373156 25.638145 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_92">
+    <path clip-path="url(#pdf99446062)" d="M 38.373156 25.638145 
+L 95.523309 82.441675 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_93">
+    <path clip-path="url(#pdf99446062)" d="M 95.523309 82.441675 
+L 26.061034 93.226933 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_94">
+    <path clip-path="url(#pdf99446062)" d="M 26.061034 93.226933 
+L 105.223381 52.587922 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_95">
+    <path clip-path="url(#pdf99446062)" d="M 105.223381 52.587922 
+L 98.49956 39.291853 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_96">
+    <path clip-path="url(#pdf99446062)" d="M 98.49956 39.291853 
+L 33.4764 29.195847 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_97">
+    <path clip-path="url(#pdf99446062)" d="M 33.4764 29.195847 
+L 24.106593 87.211781 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_98">
+    <path clip-path="url(#pdf99446062)" d="M 24.106593 87.211781 
+L 39.663445 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_99">
+    <path clip-path="url(#pdf99446062)" d="M 39.663445 102.674279 
+L 101.349443 41.362414 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_100">
+    <path clip-path="url(#pdf99446062)" d="M 101.349443 41.362414 
+L 70.34404 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_101">
+    <path clip-path="url(#pdf99446062)" d="M 70.34404 102.674279 
+L 33.264032 29.350142 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_102">
+    <path clip-path="url(#pdf99446062)" d="M 33.264032 29.350142 
+L 93.364429 89.086023 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_103">
+    <path clip-path="url(#pdf99446062)" d="M 93.364429 89.086023 
+L 28.012546 99.233069 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_104">
+    <path clip-path="url(#pdf99446062)" d="M 28.012546 99.233069 
+L 102.490505 60.998849 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_105">
+    <path clip-path="url(#pdf99446062)" d="M 102.490505 60.998849 
+L 87.455585 31.267936 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_106">
+    <path clip-path="url(#pdf99446062)" d="M 87.455585 31.267936 
+L 40.631162 23.997608 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_107">
+    <path clip-path="url(#pdf99446062)" d="M 40.631162 23.997608 
+L 28.325016 100.194752 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_108">
+    <path clip-path="url(#pdf99446062)" d="M 28.325016 100.194752 
+L 30.819673 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_109">
+    <path clip-path="url(#pdf99446062)" d="M 30.819673 102.674279 
+L 96.240319 37.650418 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_110">
+    <path clip-path="url(#pdf99446062)" d="M 96.240319 37.650418 
+L 63.357759 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_111">
+    <path clip-path="url(#pdf99446062)" d="M 63.357759 102.674279 
+L 28.154907 33.062138 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_112">
+    <path clip-path="url(#pdf99446062)" d="M 28.154907 33.062138 
+L 91.20555 95.730371 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_113">
+    <path clip-path="url(#pdf99446062)" d="M 91.20555 95.730371 
+L 46.483424 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_114">
+    <path clip-path="url(#pdf99446062)" d="M 46.483424 102.674279 
+L 28.208711 99.836804 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_115">
+    <path clip-path="url(#pdf99446062)" d="M 28.208711 99.836804 
+L 93.082706 35.356278 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_116">
+    <path clip-path="url(#pdf99446062)" d="M 93.082706 35.356278 
+L 59.04 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_117">
+    <path clip-path="url(#pdf99446062)" d="M 59.04 102.674279 
+L 24.997294 35.356278 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_118">
+    <path clip-path="url(#pdf99446062)" d="M 24.997294 35.356278 
+L 89.871289 99.836804 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_119">
+    <path clip-path="url(#pdf99446062)" d="M 89.871289 99.836804 
+L 71.596576 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_120">
+    <path clip-path="url(#pdf99446062)" d="M 71.596576 102.674279 
+L 26.87445 95.730371 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_121">
+    <path clip-path="url(#pdf99446062)" d="M 26.87445 95.730371 
+L 89.925093 33.062138 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_122">
+    <path clip-path="url(#pdf99446062)" d="M 89.925093 33.062138 
+L 54.722241 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_123">
+    <path clip-path="url(#pdf99446062)" d="M 54.722241 102.674279 
+L 21.839681 37.650418 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_124">
+    <path clip-path="url(#pdf99446062)" d="M 21.839681 37.650418 
+L 87.260327 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_125">
+    <path clip-path="url(#pdf99446062)" d="M 87.260327 102.674279 
+L 89.754984 100.194752 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_126">
+    <path clip-path="url(#pdf99446062)" d="M 89.754984 100.194752 
+L 77.448838 23.997608 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_127">
+    <path clip-path="url(#pdf99446062)" d="M 77.448838 23.997608 
+L 30.624415 31.267936 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_128">
+    <path clip-path="url(#pdf99446062)" d="M 30.624415 31.267936 
+L 15.589495 60.998849 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_129">
+    <path clip-path="url(#pdf99446062)" d="M 15.589495 60.998849 
+L 90.067454 99.233069 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_130">
+    <path clip-path="url(#pdf99446062)" d="M 90.067454 99.233069 
+L 24.715571 89.086023 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_131">
+    <path clip-path="url(#pdf99446062)" d="M 24.715571 89.086023 
+L 84.815968 29.350142 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_132">
+    <path clip-path="url(#pdf99446062)" d="M 84.815968 29.350142 
+L 47.73596 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_133">
+    <path clip-path="url(#pdf99446062)" d="M 47.73596 102.674279 
+L 16.730557 41.362414 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_134">
+    <path clip-path="url(#pdf99446062)" d="M 16.730557 41.362414 
+L 78.416555 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_135">
+    <path clip-path="url(#pdf99446062)" d="M 78.416555 102.674279 
+L 93.973407 87.211781 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_136">
+    <path clip-path="url(#pdf99446062)" d="M 93.973407 87.211781 
+L 84.6036 29.195847 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_137">
+    <path clip-path="url(#pdf99446062)" d="M 84.6036 29.195847 
+L 19.58044 39.291853 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_138">
+    <path clip-path="url(#pdf99446062)" d="M 19.58044 39.291853 
+L 12.856619 52.587922 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_139">
+    <path clip-path="url(#pdf99446062)" d="M 12.856619 52.587922 
+L 92.018966 93.226933 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_140">
+    <path clip-path="url(#pdf99446062)" d="M 92.018966 93.226933 
+L 22.556691 82.441675 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_141">
+    <path clip-path="url(#pdf99446062)" d="M 22.556691 82.441675 
+L 79.706844 25.638145 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_142">
+    <path clip-path="url(#pdf99446062)" d="M 79.706844 25.638145 
+L 40.749679 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_143">
+    <path clip-path="url(#pdf99446062)" d="M 40.749679 102.674279 
+L 11.621432 45.074411 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_144">
+    <path clip-path="url(#pdf99446062)" d="M 11.621432 45.074411 
+L 69.572782 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_145">
+    <path clip-path="url(#pdf99446062)" d="M 69.572782 102.674279 
+L 98.191831 74.228809 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_146">
+    <path clip-path="url(#pdf99446062)" d="M 98.191831 74.228809 
+L 91.758362 34.394086 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_147">
+    <path clip-path="url(#pdf99446062)" d="M 91.758362 34.394086 
+L 11.018382 46.930409 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_148">
+    <path clip-path="url(#pdf99446062)" d="M 11.018382 46.930409 
+L 68.439982 17.452291 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_149">
+    <path clip-path="url(#pdf99446062)" d="M 68.439982 17.452291 
+L 54.676287 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_150">
+    <path clip-path="url(#pdf99446062)" d="M 54.676287 102.674279 
+L 41.829119 23.127242 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_151">
+    <path clip-path="url(#pdf99446062)" d="M 41.829119 23.127242 
+L 104.364695 55.230685 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_152">
+    <path clip-path="url(#pdf99446062)" d="M 104.364695 55.230685 
+L 16.434 41.577875 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_153">
+    <path clip-path="url(#pdf99446062)" d="M 16.434 41.577875 
+L 14.058452 56.286784 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_154">
+    <path clip-path="url(#pdf99446062)" d="M 14.058452 56.286784 
+L 60.72901 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_155">
+    <path clip-path="url(#pdf99446062)" d="M 60.72901 102.674279 
+L 102.410254 61.245838 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_156">
+    <path clip-path="url(#pdf99446062)" d="M 102.410254 61.245838 
+L 98.913124 39.592325 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_157">
+    <path clip-path="url(#pdf99446062)" d="M 98.913124 39.592325 
+L 12.969894 52.936545 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_158">
+    <path clip-path="url(#pdf99446062)" d="M 12.969894 52.936545 
+L 74.092002 21.558724 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_159">
+    <path clip-path="url(#pdf99446062)" d="M 74.092002 21.558724 
+L 60.991512 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_160">
+    <path clip-path="url(#pdf99446062)" d="M 60.991512 102.674279 
+L 47.481139 19.020809 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_161">
+    <path clip-path="url(#pdf99446062)" d="M 47.481139 19.020809 
+L 106.316207 49.224549 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_162">
+    <path clip-path="url(#pdf99446062)" d="M 106.316207 49.224549 
+L 23.588762 36.379637 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_163">
+    <path clip-path="url(#pdf99446062)" d="M 23.588762 36.379637 
+L 18.276875 69.269755 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_164">
+    <path clip-path="url(#pdf99446062)" d="M 18.276875 69.269755 
+L 51.885238 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_165">
+    <path clip-path="url(#pdf99446062)" d="M 51.885238 102.674279 
+L 106.628677 48.262866 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_166">
+    <path clip-path="url(#pdf99446062)" d="M 106.628677 48.262866 
+L 106.067886 44.790564 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_167">
+    <path clip-path="url(#pdf99446062)" d="M 106.067886 44.790564 
+L 14.921405 58.942682 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_168">
+    <path clip-path="url(#pdf99446062)" d="M 14.921405 58.942682 
+L 79.744022 25.665157 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_169">
+    <path clip-path="url(#pdf99446062)" d="M 79.744022 25.665157 
+L 67.306737 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_170">
+    <path clip-path="url(#pdf99446062)" d="M 67.306737 102.674279 
+L 53.133159 14.914376 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_171">
+    <path clip-path="url(#pdf99446062)" d="M 53.133159 14.914376 
+L 93.395645 35.583642 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_172">
+    <path clip-path="url(#pdf99446062)" d="M 93.395645 35.583642 
+L 106.512372 48.620814 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_173">
+    <path clip-path="url(#pdf99446062)" d="M 106.512372 48.620814 
+L 16.127506 62.654678 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_174">
+    <path clip-path="url(#pdf99446062)" d="M 16.127506 62.654678 
+L 83.237162 28.203072 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_175">
+    <path clip-path="url(#pdf99446062)" d="M 83.237162 28.203072 
+L 71.209761 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_176">
+    <path clip-path="url(#pdf99446062)" d="M 71.209761 102.674279 
+L 56.626299 12.376461 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_177">
+    <path clip-path="url(#pdf99446062)" d="M 56.626299 12.376461 
+L 73.078679 20.822502 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_178">
+    <path clip-path="url(#pdf99446062)" d="M 73.078679 20.822502 
+L 105.178112 52.727247 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_179">
+    <path clip-path="url(#pdf99446062)" d="M 105.178112 52.727247 
+L 17.333607 66.366675 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_180">
+    <path clip-path="url(#pdf99446062)" d="M 17.333607 66.366675 
+L 86.730303 30.740987 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_181">
+    <path clip-path="url(#pdf99446062)" d="M 86.730303 30.740987 
+L 75.112785 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_182">
+    <path clip-path="url(#pdf99446062)" d="M 75.112785 102.674279 
+L 60.406438 11.61558 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_183">
+    <path clip-path="url(#pdf99446062)" d="M 60.406438 11.61558 
+L 56.930788 12.155236 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_184">
+    <path clip-path="url(#pdf99446062)" d="M 56.930788 12.155236 
+L 22.099112 81.033392 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_185">
+    <path clip-path="url(#pdf99446062)" d="M 22.099112 81.033392 
+L 64.254258 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_186">
+    <path clip-path="url(#pdf99446062)" d="M 64.254258 102.674279 
+L 93.893156 87.458769 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_187">
+    <path clip-path="url(#pdf99446062)" d="M 93.893156 87.458769 
+L 56.112732 12.749589 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_188">
+    <path clip-path="url(#pdf99446062)" d="M 56.112732 12.749589 
+L 103.019232 59.371595 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_189">
+    <path clip-path="url(#pdf99446062)" d="M 103.019232 59.371595 
+L 19.285119 72.372811 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_190">
+    <path clip-path="url(#pdf99446062)" d="M 19.285119 72.372811 
+L 92.382323 34.84742 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_191">
+    <path clip-path="url(#pdf99446062)" d="M 92.382323 34.84742 
+L 81.428011 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_192">
+    <path clip-path="url(#pdf99446062)" d="M 81.428011 102.674279 
+L 67.5612 16.813819 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_193">
+    <path clip-path="url(#pdf99446062)" d="M 67.5612 16.813819 
+L 45.886813 20.179154 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_194">
+    <path clip-path="url(#pdf99446062)" d="M 45.886813 20.179154 
+L 19.366236 72.622465 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_195">
+    <path clip-path="url(#pdf99446062)" d="M 19.366236 72.622465 
+L 77.905362 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_196">
+    <path clip-path="url(#pdf99446062)" d="M 77.905362 102.674279 
+L 91.16028 95.869696 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_197">
+    <path clip-path="url(#pdf99446062)" d="M 91.16028 95.869696 
+L 51.003607 16.461586 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_198">
+    <path clip-path="url(#pdf99446062)" d="M 51.003607 16.461586 
+L 100.860353 66.015943 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_199">
+    <path clip-path="url(#pdf99446062)" d="M 100.860353 66.015943 
+L 21.236631 78.378947 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_200">
+    <path clip-path="url(#pdf99446062)" d="M 21.236631 78.378947 
+L 98.034343 38.953853 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_201">
+    <path clip-path="url(#pdf99446062)" d="M 98.034343 38.953853 
+L 87.743236 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_202">
+    <path clip-path="url(#pdf99446062)" d="M 87.743236 102.674279 
+L 74.715962 22.012058 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_203">
+    <path clip-path="url(#pdf99446062)" d="M 74.715962 22.012058 
+L 34.842838 28.203072 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_204">
+    <path clip-path="url(#pdf99446062)" d="M 34.842838 28.203072 
+L 16.633361 64.211538 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_205">
+    <path clip-path="url(#pdf99446062)" d="M 16.633361 64.211538 
+L 89.322043 101.527209 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_206">
+    <path clip-path="url(#pdf99446062)" d="M 89.322043 101.527209 
+L 25.540189 91.623938 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_207">
+    <path clip-path="url(#pdf99446062)" d="M 25.540189 91.623938 
+L 86.76748 30.767998 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_208">
+    <path clip-path="url(#pdf99446062)" d="M 86.76748 30.767998 
+L 50.404482 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_209">
+    <path clip-path="url(#pdf99446062)" d="M 50.404482 102.674279 
+L 18.682069 39.944558 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_210">
+    <path clip-path="url(#pdf99446062)" d="M 18.682069 39.944558 
+L 81.794575 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_211">
+    <path clip-path="url(#pdf99446062)" d="M 81.794575 102.674279 
+L 92.362113 92.170834 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_212">
+    <path clip-path="url(#pdf99446062)" d="M 92.362113 92.170834 
+L 81.870724 27.210296 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_213">
+    <path clip-path="url(#pdf99446062)" d="M 81.870724 27.210296 
+L 23.798863 36.226989 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_214">
+    <path clip-path="url(#pdf99446062)" d="M 23.798863 36.226989 
+L 13.900485 55.80061 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_215">
+    <path clip-path="url(#pdf99446062)" d="M 13.900485 55.80061 
+L 91.273555 95.521073 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_216">
+    <path clip-path="url(#pdf99446062)" d="M 91.273555 95.521073 
+L 23.38131 84.97959 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_217">
+    <path clip-path="url(#pdf99446062)" d="M 23.38131 84.97959 
+L 81.658356 27.056002 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_218">
+    <path clip-path="url(#pdf99446062)" d="M 81.658356 27.056002 
+L 43.418201 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_219">
+    <path clip-path="url(#pdf99446062)" d="M 43.418201 102.674279 
+L 13.572944 43.656554 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_220">
+    <path clip-path="url(#pdf99446062)" d="M 13.572944 43.656554 
+L 72.950803 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_221">
+    <path clip-path="url(#pdf99446062)" d="M 72.950803 102.674279 
+L 96.580536 79.187863 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_222">
+    <path clip-path="url(#pdf99446062)" d="M 96.580536 79.187863 
+L 89.025486 32.408535 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_223">
+    <path clip-path="url(#pdf99446062)" d="M 89.025486 32.408535 
+L 12.754887 44.250907 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_224">
+    <path clip-path="url(#pdf99446062)" d="M 12.754887 44.250907 
+L 11.167609 47.389683 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_225">
+    <path clip-path="url(#pdf99446062)" d="M 11.167609 47.389683 
+L 93.225067 89.514936 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_226">
+    <path clip-path="url(#pdf99446062)" d="M 93.225067 89.514936 
+L 21.22243 78.335242 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_227">
+    <path clip-path="url(#pdf99446062)" d="M 21.22243 78.335242 
+L 76.549231 23.344005 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_228">
+    <path clip-path="url(#pdf99446062)" d="M 76.549231 23.344005 
+L 36.43192 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_229">
+    <path clip-path="url(#pdf99446062)" d="M 36.43192 102.674279 
+L 16.007974 62.286796 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_230">
+    <path clip-path="url(#pdf99446062)" d="M 16.007974 62.286796 
+L 13.059377 44.029683 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_231">
+    <path clip-path="url(#pdf99446062)" d="M 13.059377 44.029683 
+L 94.431168 85.80294 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_232">
+    <path clip-path="url(#pdf99446062)" d="M 94.431168 85.80294 
+L 19.888169 74.228809 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_233">
+    <path clip-path="url(#pdf99446062)" d="M 19.888169 74.228809 
+L 73.391618 21.049865 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_234">
+    <path clip-path="url(#pdf99446062)" d="M 73.391618 21.049865 
+L 32.114161 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_235">
+    <path clip-path="url(#pdf99446062)" d="M 32.114161 102.674279 
+L 23.768365 86.170822 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_236">
+    <path clip-path="url(#pdf99446062)" d="M 23.768365 86.170822 
+L 16.552517 41.491768 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_237">
+    <path clip-path="url(#pdf99446062)" d="M 16.552517 41.491768 
+L 95.637268 82.090944 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_238">
+    <path clip-path="url(#pdf99446062)" d="M 95.637268 82.090944 
+L 18.553908 70.122376 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_239">
+    <path clip-path="url(#pdf99446062)" d="M 18.553908 70.122376 
+L 70.234005 18.755726 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_240">
+    <path clip-path="url(#pdf99446062)" d="M 70.234005 18.755726 
+L 28.60873 101.067935 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_241">
+    <path clip-path="url(#pdf99446062)" d="M 28.60873 101.067935 
+L 31.737792 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_242">
+    <path clip-path="url(#pdf99446062)" d="M 31.737792 102.674279 
+L 100.402774 67.424226 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_243">
+    <path clip-path="url(#pdf99446062)" d="M 100.402774 67.424226 
+L 79.018739 25.138208 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_244">
+    <path clip-path="url(#pdf99446062)" d="M 79.018739 25.138208 
+L 46.096914 20.026507 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_245">
+    <path clip-path="url(#pdf99446062)" d="M 46.096914 20.026507 
+L 32.748965 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_246">
+    <path clip-path="url(#pdf99446062)" d="M 32.748965 102.674279 
+L 22.204537 37.385335 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_247">
+    <path clip-path="url(#pdf99446062)" d="M 22.204537 37.385335 
+L 97.58878 76.084807 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_248">
+    <path clip-path="url(#pdf99446062)" d="M 97.58878 76.084807 
+L 16.395029 63.478028 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_249">
+    <path clip-path="url(#pdf99446062)" d="M 16.395029 63.478028 
+L 65.124881 15.043729 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_250">
+    <path clip-path="url(#pdf99446062)" d="M 65.124881 15.043729 
+L 25.875854 92.657008 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_251">
+    <path clip-path="url(#pdf99446062)" d="M 25.875854 92.657008 
+L 45.388896 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_252">
+    <path clip-path="url(#pdf99446062)" d="M 45.388896 102.674279 
+L 97.669898 75.835153 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_253">
+    <path clip-path="url(#pdf99446062)" d="M 97.669898 75.835153 
+L 67.974764 17.11429 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_254">
+    <path clip-path="url(#pdf99446062)" d="M 67.974764 17.11429 
+L 53.251676 14.828268 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_255">
+    <path clip-path="url(#pdf99446062)" d="M 53.251676 14.828268 
+L 39.064191 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_256">
+    <path clip-path="url(#pdf99446062)" d="M 39.064191 102.674279 
+L 27.856557 33.278902 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_257">
+    <path clip-path="url(#pdf99446062)" d="M 27.856557 33.278902 
+L 99.540292 70.078671 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_258">
+    <path clip-path="url(#pdf99446062)" d="M 99.540292 70.078671 
+L 14.236149 56.83368 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_259">
+    <path clip-path="url(#pdf99446062)" d="M 14.236149 56.83368 
+L 60.015756 11.331733 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_260">
+    <path clip-path="url(#pdf99446062)" d="M 60.015756 11.331733 
+L 23.142978 84.24608 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_261">
+    <path clip-path="url(#pdf99446062)" d="M 23.142978 84.24608 
+L 59.04 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_262">
+    <path clip-path="url(#pdf99446062)" d="M 59.04 102.674279 
+L 94.937022 84.24608 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_263">
+    <path clip-path="url(#pdf99446062)" d="M 94.937022 84.24608 
+L 58.064244 11.331733 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_264">
+    <path clip-path="url(#pdf99446062)" d="M 58.064244 11.331733 
+L 103.843851 56.83368 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_265">
+    <path clip-path="url(#pdf99446062)" d="M 103.843851 56.83368 
+L 18.539708 70.078671 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_266">
+    <path clip-path="url(#pdf99446062)" d="M 18.539708 70.078671 
+L 90.223443 33.278902 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_267">
+    <path clip-path="url(#pdf99446062)" d="M 90.223443 33.278902 
+L 79.015809 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_268">
+    <path clip-path="url(#pdf99446062)" d="M 79.015809 102.674279 
+L 64.828324 14.828268 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_269">
+    <path clip-path="url(#pdf99446062)" d="M 64.828324 14.828268 
+L 50.105236 17.11429 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_270">
+    <path clip-path="url(#pdf99446062)" d="M 50.105236 17.11429 
+L 20.410102 75.835153 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_271">
+    <path clip-path="url(#pdf99446062)" d="M 20.410102 75.835153 
+L 72.691104 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_272">
+    <path clip-path="url(#pdf99446062)" d="M 72.691104 102.674279 
+L 92.204146 92.657008 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_273">
+    <path clip-path="url(#pdf99446062)" d="M 92.204146 92.657008 
+L 52.955119 15.043729 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_274">
+    <path clip-path="url(#pdf99446062)" d="M 52.955119 15.043729 
+L 101.684971 63.478028 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_275">
+    <path clip-path="url(#pdf99446062)" d="M 101.684971 63.478028 
+L 20.49122 76.084807 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_276">
+    <path clip-path="url(#pdf99446062)" d="M 20.49122 76.084807 
+L 95.875463 37.385335 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_277">
+    <path clip-path="url(#pdf99446062)" d="M 95.875463 37.385335 
+L 85.331035 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_278">
+    <path clip-path="url(#pdf99446062)" d="M 85.331035 102.674279 
+L 71.983086 20.026507 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_279">
+    <path clip-path="url(#pdf99446062)" d="M 71.983086 20.026507 
+L 39.061261 25.138208 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_280">
+    <path clip-path="url(#pdf99446062)" d="M 39.061261 25.138208 
+L 17.677226 67.424226 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_281">
+    <path clip-path="url(#pdf99446062)" d="M 17.677226 67.424226 
+L 86.342208 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_282">
+    <path clip-path="url(#pdf99446062)" d="M 86.342208 102.674279 
+L 89.47127 101.067935 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_283">
+    <path clip-path="url(#pdf99446062)" d="M 89.47127 101.067935 
+L 47.845995 18.755726 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_284">
+    <path clip-path="url(#pdf99446062)" d="M 47.845995 18.755726 
+L 99.526092 70.122376 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_285">
+    <path clip-path="url(#pdf99446062)" d="M 99.526092 70.122376 
+L 22.442732 82.090944 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_286">
+    <path clip-path="url(#pdf99446062)" d="M 22.442732 82.090944 
+L 101.527483 41.491768 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_287">
+    <path clip-path="url(#pdf99446062)" d="M 101.527483 41.491768 
+L 94.311635 86.170822 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_288">
+    <path clip-path="url(#pdf99446062)" d="M 94.311635 86.170822 
+L 85.965839 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_289">
+    <path clip-path="url(#pdf99446062)" d="M 85.965839 102.674279 
+L 44.688382 21.049865 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_290">
+    <path clip-path="url(#pdf99446062)" d="M 44.688382 21.049865 
+L 98.191831 74.228809 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_291">
+    <path clip-path="url(#pdf99446062)" d="M 29.130663 102.674279 
+L 88.949337 102.674279 
+L 107.434324 45.783339 
+L 59.04 10.622804 
+L 10.645676 45.783339 
+L 29.130663 102.674279 
+" style="fill:none;stroke:#000000;stroke-linecap:square;"/>
+   </g>
+   <g id="line2d_292">
+    <path clip-path="url(#pdf99446062)" d="M 28.233383 103.909279 
+L 89.846617 103.909279 
+L 108.886154 45.311611 
+L 59.04 9.09626 
+L 9.193846 45.311611 
+L 28.233383 103.909279 
+" style="fill:none;stroke:#ff0000;stroke-linecap:square;stroke-width:0.1;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdf99446062">
+   <rect height="98.6055396095" width="103.68" x="7.2" y="7.2"/>
+  </clipPath>
+ </defs>
+</svg>

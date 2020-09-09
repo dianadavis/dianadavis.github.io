@@ -1,0 +1,1159 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0013)about:internet -->
+<html><head><title>Time Converter</title>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<meta name="GENERATOR" content="SpreadsheetConverter to HTML/JavaScript version 4.4.0 (build 1016)" />
+<!-- SpreadsheetConverter Header start -->
+<!-- Parts of this page Copyright (C) 2002-2008 Framtidsforum I&M AB, Sweden -->
+
+
+
+<style type="text/css"> /* Styles needed by SpreadsheetConverter */
+
+.eebuttons {width:120px}*.ee100 { color : windowtext; font-family : Arial , sans-serif; 
+font-size : 10.00pt; font-style : normal; font-weight : 700; 
+padding-left : 1px; padding-right : 1px; padding-top : 1px; 
+text-align : left; vertical-align : bottom }
+*.ee103 { color : windowtext; font-family : Arial , sans-serif; 
+font-size : 10.00pt; font-style : normal; font-weight : 400; 
+padding-left : 0px; padding-right : 1px; padding-top : 0px; 
+text-align : right; vertical-align : bottom }
+*.ee105 { color : windowtext; font-family : Arial , sans-serif; 
+font-size : 10.00pt; font-style : normal; font-weight : 400; 
+text-align : right; vertical-align : bottom }
+*.ee106 { color : windowtext; font-family : Arial , sans-serif; 
+font-size : 10.00pt; font-style : normal; font-weight : 400; 
+padding-left : 1px; padding-right : 1px; padding-top : 1px; 
+text-align : left; vertical-align : bottom }
+*.ee109 { color : windowtext; font-family : Verdana , sans-serif; 
+font-size : 10.00pt; font-style : normal; font-weight : 700; 
+padding-left : 1px; padding-right : 1px; padding-top : 1px; 
+text-align : left; vertical-align : bottom }
+*.ee115 { background : lime; color : windowtext; 
+font-family : Arial , sans-serif; font-size : 10.00pt; font-style : normal; 
+font-weight : 400; padding-left : 1px; padding-right : 1px; 
+padding-top : 1px; text-align : right; vertical-align : bottom }
+*.ee116 { background : lime; color : windowtext; 
+font-family : Arial , sans-serif; font-size : 10.00pt; font-style : normal; 
+font-weight : 400; text-align : right; vertical-align : bottom }
+*.ee117 { background : aqua; color : windowtext; 
+font-family : Arial , sans-serif; font-size : 10.00pt; font-style : normal; 
+font-weight : 400; padding-left : 0px; padding-right : 1px; 
+padding-top : 0px; text-align : right; vertical-align : bottom }
+*.ee118 { background : aqua; color : windowtext; 
+font-family : Arial , sans-serif; font-size : 10.00pt; font-style : normal; 
+font-weight : 400; text-align : right; vertical-align : bottom }
+*.ee119 { background : lime; color : windowtext; 
+font-family : Arial , sans-serif; font-size : 10.00pt; font-style : normal; 
+font-weight : 400; padding-left : 0px; padding-right : 1px; 
+padding-top : 0px; text-align : right; vertical-align : bottom }
+
+*.ee900 { font-size : 10.00pt; color : #3333ff; 
+font-family : "Arial", Sans-serif; border-bottom : 3px solid #3333ff; 
+border-right : 3px solid #3333ff; border-top : 3px solid #3333ff; 
+border-left : 3px solid #3333ff }
+textarea {  overflow: auto; }
+</style>
+<style type="text/css" media="screen">
+.eebuttonbar_top {margin-bottom:6px;padding-bottom:6px;border-bottom: 2px solid blue}
+.eebuttonbar_bottom {margin-top:6px;padding-top:6px;border-top: 2px solid blue}
+.eetabs {display:block;}</style>
+<style type="text/css" media="print">
+.eebuttonbar_top {display:none;}
+.eebuttonbar_bottom {display:none;}
+.eetabs {display:none;}</style>
+<script language="javascript" type="text/javascript">
+ 
+
+var co = new Object;
+function recalc_onclick(ctl) {
+  if (true) {
+
+
+co.percent=eeparseFloat(document.formc.percent.value);calc(co);document.formc.pA4C.value=eedatefmt(fmtdate7,co.pA4C);document.formc.pA5C.value=eedatefmt(fmtdate7,co.pA5C);document.formc.pA6C.value=eedatefmt(fmtdate7,co.pA6C);document.formc.pA7C.value=eedatefmt(fmtdate7,co.pA7C);document.formc.pA8C.value=eedatefmt(fmtdate7,co.pA8C);document.formc.thousandin.value=eedatefmt(fmtdate7,co.thousandin);document.formc.pA9C.value=eedatefmt(fmtdate7,co.pA9C);document.formc.thousandhs.value=eedatefmt(fmtdate7,co.thousandhs);document.formc.pA10C.value=eedatefmt(fmtdate7,co.pA10C);document.formc.pA11C.value=eedatefmt(fmtdate7,co.pA11C);document.formc.pA12C.value=eedatefmt(fmtdate7,co.pA12C);document.formc.pA13C.value=eedatefmt(fmtdate7,co.pA13C);document.formc.pA14C.value=eedatefmt(fmtdate7,co.pA14C);document.formc.pA15C.value=eedatefmt(fmtdate7,co.pA15C);document.formc.pA16C.value=eedatefmt(fmtdate7,co.pA16C);document.formc.pA17C.value=eedatefmt(fmtdate7,co.pA17C);document.formc.pA18C.value=eedatefmt(fmtdate7,co.pA18C);document.formc.pA19C.value=eedatefmt(fmtdate7,co.pA19C);document.formc.pA20C.value=eedatefmt(fmtdate7,co.pA20C);document.formc.pA21C.value=eedatefmt(fmtdate7,co.pA21C);document.formc.pA22C.value=eedatefmt(fmtdate7,co.pA22C);document.formc.pA23C.value=eedatefmt(fmtdate7,co.pA23C);document.formc.pA24C.value=eedatefmt(fmtdate7,co.pA24C);document.formc.pA25C.value=eedatefmt(fmtdate7,co.pA25C);document.formc.pA26C.value=eedatefmt(fmtdate7,co.pA26C);document.formc.pA27C.value=eedatefmt(fmtdate7,co.pA27C);
+document.formc.pA28C.value=eedatefmt(fmtdate7,co.pA28C);document.formc.pA29C.value=eedatefmt(fmtdate7,co.pA29C);document.formc.pA30C.value=eedatefmt(fmtdate7,co.pA30C);document.formc.pA31C.value=eedatefmt(fmtdate6,co.pA31C);document.formc.pA32C.value=eedatefmt(fmtdate6,co.pA32C);document.formc.pA33C.value=eedatefmt(fmtdate6,co.pA33C);document.formc.pA34C.value=eedatefmt(fmtdate6,co.pA34C);document.formc.pA35C.value=eedatefmt(fmtdate6,co.pA35C);document.formc.pA36C.value=eedatefmt(fmtdate7,co.pA36C);
+};};
+
+
+var eeisus=0;var eetrue="TRUE";var eefalse="FALSE";var eedec=",";var eeth=" ";var eedecreg=new RegExp(",","g");var eethreg=new RegExp(" ","g");var eecurrencyreg=new RegExp("kr","g");var eepercentreg=new RegExp("%","g"); var fmtdaynamesshort=new Array("sö","må","ti","on","to","fr","lö"); var fmtdaynameslong=new Array("söndag","måndag","tisdag","onsdag","torsdag","fredag","lördag"); var fmtmonthnamesshort=new Array("jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"); var fmtmonthnameslong=new Array("januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"); var fmtstrings=new Array(","," ",":",".","0"); var fmtdate6=new Array(12,34,17,34,19); var fmtdate7=new Array(17,34,19,35,36);
+
+function calc(data){var cA1B=data.percent;var cA4B=(5.7395833333333333E-4);var cA5B=(5.5092592592592595E-4);var cA6B=(1.3405092592592594E-3);var cA7B=(1.311111111111111E-3);var cA8B=(1.389699074074074E-3);var cA9B=(((0.912)*(0.00174768518518519)));var cA10B=(((0.912)*(0.0018912037037037)));var cA11B=(2.7512731481481481E-3);var cA12B=(2.6673611111111112E-3);var cA13B=(2.9965277777777776E-3);var cA14B=(2.9761574074074078E-3);var cA15B=(3.2233796296296294E-3);var cA16B=(2.9231481481481482E-3);var cA17B=(5.8780092592592599E-3);var cA18B=(5.6262731481481485E-3);var cA19B=(6.3495370370370372E-3);var cA20B=(6.8972222222222221E-3);var cA21B=(8.9467592592592585E-3);var cA22B=(1.0416666666666666E-2);var cA23B=(9.8512731481481489E-3);var cA24B=(1.0254629629629629E-2);var cA25B=(1.1028703703703704E-2);var cA26B=(1.0253472222222223E-2);var cA27B=(1.3518518518518518E-2);var cA28B=(1.6979166666666667E-2);var cA29B=(2.0506712962962963E-2);var cA30B=(2.1076388888888891E-2);var cA31B=(4.612268518518519E-2);var cA32B=(3.4733796296296297E-2);var cA33B=(9.403935185185186E-2);var cA34B=(0.10722222222222222);var cA35B=(9.9618055555555557E-2);var cA36B=(4.8229166666666663E-3);var cA4C=(((cA4B)/(cA1B)));var cA5C=(((cA5B)/(cA1B)));var cA6C=(((cA6B)/(cA1B)));
+ var cA7C=(((cA7B)/(cA1B)));var cA8C=(((cA8B)/(cA1B)));var cA9C=(((cA9B)/(cA1B)));var cA10C=(((cA10B)/(cA1B)));var cA11C=(((cA11B)/(cA1B)));var cA12C=(((cA12B)/(cA1B)));var cA13C=(((cA13B)/(cA1B)));var cA14C=(((cA14B)/(cA1B)));var cA15C=(((cA15B)/(cA1B)));var cA16C=(((cA16B)/(cA1B)));var cA17C=(((cA17B)/(cA1B)));var cA18C=(((cA18B)/(cA1B)));var cA19C=(((cA19B)/(cA1B)));var cA20C=(((cA20B)/(cA1B)));var cA21C=(((cA21B)/(cA1B)));var cA22C=(((cA22B)/(cA1B)));var cA23C=(((cA23B)/(cA1B)));var cA24C=(((cA24B)/(cA1B)));var cA25C=(((cA25B)/(cA1B)));var cA26C=(((cA26B)/(cA1B)));var cA27C=(((cA27B)/(cA1B)));var cA28C=(((cA28B)/(cA1B)));var cA29C=(((cA29B)/(cA1B)));var cA30C=(((cA30B)/(cA1B)));var cA31C=(((cA31B)/(cA1B)));var cA32C=(((cA32B)/(cA1B)));var cA33C=(((cA33B)/(cA1B)));var cA34C=(((cA34B)/(cA1B)));var cA35C=(((cA35B)/(cA1B)));var cA36C=(((cA36B)/(cA1B)));data.pA4C=cA4C;data.pA5C=cA5C;data.pA6C=cA6C;data.pA7C=cA7C;data.pA8C=cA8C;data.thousandin=cA9B;data.pA9C=cA9C;data.thousandhs=cA10B;data.pA10C=cA10C;data.pA11C=cA11C;data.pA12C=cA12C;data.pA13C=cA13C;data.pA14C=cA14C;data.pA15C=cA15C;data.pA16C=cA16C;data.pA17C=cA17C;data.pA18C=cA18C;data.pA19C=cA19C;data.pA20C=cA20C;data.pA21C=cA21C;data.pA22C=cA22C;
+ data.pA23C=cA23C;data.pA24C=cA24C;data.pA25C=cA25C;data.pA26C=cA26C;data.pA27C=cA27C;data.pA28C=cA28C;data.pA29C=cA29C;data.pA30C=cA30C;data.pA31C=cA31C;data.pA32C=cA32C;data.pA33C=cA33C;data.pA34C=cA34C;data.pA35C=cA35C;data.pA36C=cA36C;};
+
+ function myIsNaN(x){return(isNaN(x)||(typeof x=='number'&&!isFinite(x)));};function mod(n,d){return n-d*Math.floor(n/d);};function round(n,nd){if(isFinite(n)&&isFinite(nd)){var sign_n=(n<0)?-1:1;var abs_n=Math.abs(n);var factor=Math.pow(10,nd);return sign_n*Math.round(abs_n*factor)/factor;}else{return NaN;}};function eeparseFloat(str){str=String(str).replace(eedecreg,".");var res=parseFloat(str);if(isNaN(res)){return 0;}else{return res;}};var near0RegExp=new RegExp("[.](.*0000000|.*9999999)");function eedisplayFloat(x){if(myIsNaN(x)){return Number.NaN;}else{var str=String(x);if(near0RegExp.test(str)){x=round(x,8);str=String(x);}return str.replace(/\./g,eedec);}};function eedisplayScientific(x,nd){if(myIsNaN(x)){return Number.NaN;}else{var str=String(x.toExponential(nd));return str.replace(/\./g,eedec);}};function eedisplayFloatND(x,nd){if(myIsNaN(x)){return Number.NaN;}else{var res=round(x,nd);if(nd>0){var str=String(res);if(str.indexOf('e')!=-1)return str;if(str.indexOf('E')!=-1)return str;var parts=str.split('.');if(parts.length<2){var decimals=('00000000000000').substring(0,nd);return(parts[0]).toString()+eedec+decimals;}else{var decimals=((parts[1]).toString()+'00000000000000').substring(0,nd);return(parts[0]).toString()+eedec+decimals;}}else{return res;}}};function eedisplayPercent(x){if(myIsNaN(x)){return Number.NaN;}else{return eedisplayFloat(x*100)+'%';}};function eedisplayPercentND(x,nd){if(myIsNaN(x)){return Number.NaN;}else{return eedisplayFloatND(x*100,nd)+'%';}}
+ function eedisplayFloatNDTh(x,nd){if(myIsNaN(x)){return Number.NaN;}else{var res=round(x,nd);if(nd>0){var str=String(res);if(str.indexOf('e')!=-1)return str;if(str.indexOf('E')!=-1)return str;var parts=str.split('.');var res2=eeinsertThousand(parts[0].toString());if(parts.length<2){var decimals=('00000000000000').substring(0,nd);return(res2+eedec+decimals);}else{var decimals=((parts[1]).toString()+'00000000000000').substring(0,nd);return(res2+eedec+decimals);}}else{return(eeinsertThousand(res.toString()));}}};function eedisplayPercentNDTh(x,nd){if(myIsNaN(x)){return Number.NaN;}else{return eedisplayFloatNDTh(x*100,nd)+'%';}}function eeinsertThousand(whole){if(whole==""||whole.indexOf("e")>=0){return whole;}else{var minus_sign="";if(whole.charAt(0)=="-"){minus_sign="-";whole=whole.substring(1);};var res="";var str_length=whole.length-1;for(var ii=0;ii<=str_length;ii++){if(ii>0&&ii%3==0){res=eeth+res;};res=whole.charAt(str_length-ii)+res;};return minus_sign+res;}};function eedatefmt(fmt,x){if(!isFinite(x))return Number.NaN;var padding=0;var tmp=0;var res="";var len=fmt.length;for(var ii=0;ii<len;ii++){if(fmt[ii]>31){res+=fmtstrings[fmt[ii]-32];}else{switch(fmt[ii]){case 2:res+=eemonth(x);break;case 3:tmp=eemonth(x);if(tmp<10){res+="0";};res+=tmp;break;case 4:res+=fmtmonthnamesshort[eemonth(x)-1];break;case 5:res+=fmtmonthnameslong[eemonth(x)-1];break;case 6:res+=eeday(x);break;case 7:tmp=eeday(x);if(tmp<10){res+="0";};res+=tmp;break;case 8:res+=fmtdaynamesshort[weekday(x,1)-1];break;case 9:res+=fmtdaynameslong[weekday(x,1)-1];break;case 10:tmp=year(x)%100;if(tmp<10){res+="0";};res+=tmp;break;case 11:res+=year(x);break;case 12:res+=hour(x);break;case 13:tmp=hour(x);if(tmp<10){res+="0";};res+=tmp;break;case 14:tmp=hour(x)%12;if(tmp==0){res+="12";}else{res+=tmp%12;};break;case 15:tmp=hour(x)%12;if(tmp==0){res+="12";}else{if(tmp<10){res+="0";};res+=tmp;};break;case 16:res+=minute(x);break;case 17:tmp=minute(x);if(tmp<10){res+="0";};res+=tmp;break;case 18:res+=second(x);break;case 19:tmp=second(x);if(tmp<10){res+="0";};res+=tmp;break;case 21:case 22:if(hour(x)<12){res+="AM";}else{res+="PM";};break;case 23:res+=eedisplayFloat(x);break;case 24:tmp=fmt[++ii];res+=eedisplayFloatND(x,tmp);break;case 25:tmp=fmt[++ii];res+=eedisplayFloatNDTh(x,tmp);break;case 26:res+=eedisplayPercent(x);break;case 27:tmp=fmt[++ii];res+=eedisplayPercentND(x,tmp);break;case 28:tmp=fmt[++ii];res+=eedisplayPercentNDTh(x,tmp);break;case 29:tmp=fmt[++ii];res+=eedisplayScientific(x,tmp);break;case 30:padding=fmt[++ii];tmp=hour(x)+Math.floor(x)*24;tmp=tmp.toString();if(tmp.length<padding){res+=('00000000000000').substring(0,padding-tmp.length);}res+=tmp;break;};};};return res;};
+ function leap_gregorian(year){return((year%4)==0)&&(!(((year%100)==0)&&((year%400)!=0)));}var GREGORIAN_EPOCH=1721425;function gregorian_to_jd(year,month,day){return(GREGORIAN_EPOCH-0)+(365*(year-1))+Math.floor((year-1)/4)+(-Math.floor((year-1)/100))+Math.floor((year-1)/400)+Math.floor((((367*month)-362)/12)+((month<=2)?0:(leap_gregorian(year)?-1:-2))+day);}function jd_to_gregorian(jd){var wjd,depoch,quadricent,dqc,cent,dcent,quad,dquad,yindex,year,yearday,leapadj;wjd=Math.floor(jd);depoch=wjd-GREGORIAN_EPOCH-1;quadricent=Math.floor(depoch/146097);dqc=mod(depoch,146097);cent=Math.floor(dqc/36524);dcent=mod(dqc,36524);quad=Math.floor(dcent/1461);dquad=mod(dcent,1461);yindex=Math.floor(dquad/365);year=(quadricent*400)+(cent*100)+(quad*4)+yindex;if(!((cent==4)||(yindex==4))){year++;}yearday=wjd-gregorian_to_jd(year,1,1);leapadj=((wjd<gregorian_to_jd(year,3,1))?0:(leap_gregorian(year)?1:2));var month=Math.floor((((yearday+leapadj)*12)+373)/367);var day=(wjd-gregorian_to_jd(year,month,1))+1;return new Array(year,month,day);}function eeday(serial_number){if(!isFinite(serial_number))return Number.NaN;if(serial_number<1){return 0;}if(serial_number>60)serial_number--;var res=jd_to_gregorian(serial_number+2415020);return res[2];};function hour(serial_number){if(!isFinite(serial_number))return Number.NaN;var res=Math.floor((serial_number-Math.floor(serial_number))*86400+0.5);return Math.floor(res/3600);}function minute(serial_number){if(!isFinite(serial_number))return Number.NaN;var res=Math.floor((serial_number-Math.floor(serial_number))*86400+0.5);return Math.floor(res/60)%60;};
+ function eemonth(serial_number){if(!isFinite(serial_number))return Number.NaN;if(serial_number<1){return 1;}if(serial_number>60)serial_number--;var res=jd_to_gregorian(serial_number+2415020);return res[1];};function second(serial_number){if(!isFinite(serial_number))return Number.NaN;var res=Math.floor((serial_number-Math.floor(serial_number))*86400+0.5);return res%60;};function weekday(serial_number,return_type){if(!isFinite(return_type)||!isFinite(serial_number))return Number.NaN;if(return_type<1||return_type>3)return Number.NaN;var res=Math.floor(serial_number+6)%7;switch(Math.floor(return_type)){case 1:return res+1;case 2:return(res+6)%7+1;case 3:return(res+6)%7;};return "hej";};function year(serial_number){if(!isFinite(serial_number))return Number.NaN;if(serial_number<1){return 1900;}if(serial_number>60)serial_number--;var res=jd_to_gregorian(serial_number+2415020);return res[0];};
+</script>
+ 
+<!-- SpreadsheetConverter Header end -->
+</head><body onload="initial_update();try{document.formc.percent.focus();document.formc.percent.select();}catch(err){};"   >
+<table id="_TRIAL_MSG" style='border-collapse:collapse'  border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF">
+<tr><td width="484" style='width:363pt;' class="ee900">
+The page as a whole or parts of it is only allowed to be used for evaluating  <a href='http://www.spreadsheetconverter.com/poweredby.htm' target='_blank'>SpreadsheetConverter</a> . All publishing on a webserver, for other purposes than evaluation, requires a license of  <a href='http://www.spreadsheetconverter.com/poweredby.htm' target='_blank'>SpreadsheetConverter</a> .
+</td></tr></table><br />
+
+
+
+
+To use this converter, find the world record for the race you ran in the green column, and use that and your race time in the form below to calculate your performance index for that race. 
+Type that decimal number into the "Your index" box below.
+Then read up and down the blue column to see performances that are equivalent to yours.
+<b>Note:</b> All record times are for females.
+<p>
+
+<script language="javascript">
+<!-- begin 
+function pace() {
+
+a=eval(document.form.a.value); //WR hours
+b=eval(document.form.b.value); //WR minutes
+c=eval(document.form.c.value); //WR seconds
+d=eval(document.form.d.value); //your hours
+e=eval(document.form.e.value); //your minutes
+f=eval(document.form.f.value); //your seconds
+
+p=((60*a+b+c/60)/(60*d+e+f/60));  //performance index
+//f=Math.floor(e);     //whole number minutes
+//g=(e-f)*60;          //seconds with decimal
+//h=Math.round(g);     //whole number seconds
+
+document.form.pi.value=p;  }
+
+//end -->
+</script>
+
+<form name="form">
+<font size=4><b>What is your performance index?</b></font><br>
+If the world record is <input type="text" name="a" size="2"> hours, <input type="text" name="b" size="3"> minutes and <input type="text" name="c" size="4"> seconds and your time was <input type="text" name="d" size="2"> hours, <input type="text" name="e" size="3"> minutes and <input type="text" name="f" size="4"> seconds,<br>
+
+your performance index is <input type="button" value="Calculate" onClick="pace();"> <input type="text" name="pi" size="5">.
+</form>
+
+<!-- SpreadsheetConverter Body start -->
+
+<form id="formc" name="formc" method="post" action="http://www.spreadsheetserver.com/server1/g/submit/submit.aspx"> <div style="display:none"> 
+
+
+	
+
+
+   <input type="hidden" id="xl_spreadsheet" name="xl_spreadsheet" value="converter.xls" />
+   <input type="hidden" id="xl_client" name="xl_client" value="h4.4.0" />
+
+	
+
+<script language="javascript" type="text/javascript">
+  var submitted = false;
+  function check_submit()
+  {
+     if (submitted) {
+        alert("You have already submitted the form.  Please be patient.");
+        submitted = false;  /* reset if the user wants to submit again, for example due to failure */
+        return false;
+     } else {
+        recalc_onclick('');   /* force recalc before submit */ 
+        submitted = true;
+	document.formc.submit();
+        return true;
+     }
+  }
+</script>
+</div>
+
+
+
+
+
+<div class="eebuttonbar_top">
+<input class="eebuttons" type="button" value="Update" name="xl_update_top" onclick="recalc_onclick('')">
+<input class="eebuttons" type="button" value="Reset to 0.8" name="xl_reset_top" onclick="reset_onclick('')">
+</div>
+
+<div id="panel1" style='display:block'>
+<table width="501.00" style='border-collapse:collapse' border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<col width="90.00" />
+<col width="127.00" />
+<col width="102.00" />
+<col width="64.00" />
+<col width="64.00" />
+<col width="54.00" />
+<tr style='height:13pt'> 
+<td class='ee100'>
+Your
+index
+</td>
+<td class='ee103'>
+<input value="0,8" name="percent" id="percent" type="text" onblur="this.value=eedisplayFloat(eeparseFloat(this.value));recalc_onclick('percent')" tabindex="1"
+style=' width:100% '
+class='ee105'>
+</td>
+
+
+
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee109'>
+&nbsp;
+</td>
+<td class='ee100' colspan="3">
+&nbsp;
+</td>
+<td class='ee100'>
+&nbsp;
+</td>
+<td class='ee100'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee109'>
+Distance
+</td>
+<td class='ee100'>
+World Record Time
+</td>
+<td class='ee100' colspan="2">
+Your equivalent
+</td>
+<td class='ee100'>
+&nbsp;
+</td>
+<td class='ee100'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+400 indoor
+</td>
+<td class='ee115'>
+00:49,6
+</td>
+<td class='ee117'>
+<input value="-" name="pA4C" id="pA4C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+400 outdoor
+</td>
+<td class='ee115'>
+00:47,6
+</td>
+<td class='ee117'>
+<input value="-" name="pA5C" id="pA5C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+800 indoor
+</td>
+<td class='ee115'>
+01:55,8
+</td>
+<td class='ee117'>
+<input value="-" name="pA6C" id="pA6C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+800 outdoor
+</td>
+<td class='ee115'>
+01:53,3
+</td>
+<td class='ee117'>
+<input value="-" name="pA7C" id="pA7C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+800 hs
+</td>
+<td class='ee115'>
+02:00,1
+</td>
+<td class='ee117'>
+<input value="-" name="pA8C" id="pA8C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+1000 y in est
+</td>
+<td class='ee119'>
+<input value="-" name="thousandin" id="thousandin" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee116'>
+</td>
+<td class='ee117'>
+<input value="-" name="pA9C" id="pA9C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+1000 y in hs est<span style='display:
+none'>t</span>
+</td>
+<td class='ee119'>
+<input value="-" name="thousandhs" id="thousandhs" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee116'>
+</td>
+<td class='ee117'>
+<input value="-" name="pA10C" id="pA10C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+1500 indoor
+</td>
+<td class='ee115'>
+03:57,7
+</td>
+<td class='ee117'>
+<input value="-" name="pA11C" id="pA11C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+1500 outdoor
+</td>
+<td class='ee115'>
+03:50,5
+</td>
+<td class='ee117'>
+<input value="-" name="pA12C" id="pA12C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+1500 in hs
+</td>
+<td class='ee115'>
+04:18,9
+</td>
+<td class='ee117'>
+<input value="-" name="pA13C" id="pA13C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+mile indoor
+</td>
+<td class='ee115'>
+04:17,1
+</td>
+<td class='ee117'>
+<input value="-" name="pA14C" id="pA14C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+mile in hs
+</td>
+<td class='ee115'>
+04:38,5
+</td>
+<td class='ee117'>
+<input value="-" name="pA15C" id="pA15C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+mile outdoor
+</td>
+<td class='ee115'>
+04:12,6
+</td>
+<td class='ee117'>
+<input value="-" name="pA16C" id="pA16C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+3k indoor
+</td>
+<td class='ee115'>
+08:27,9
+</td>
+<td class='ee117'>
+<input value="-" name="pA17C" id="pA17C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+3k outdoor
+</td>
+<td class='ee115'>
+08:06,1
+</td>
+<td class='ee117'>
+<input value="-" name="pA18C" id="pA18C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+3k hs
+</td>
+<td class='ee115'>
+09:08,6
+</td>
+<td class='ee117'>
+<input value="-" name="pA19C" id="pA19C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+2 mi in hs
+</td>
+<td class='ee115'>
+09:55,9
+</td>
+<td class='ee117'>
+<input value="-" name="pA20C" id="pA20C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+2.75 mi est
+</td>
+<td class='ee115'>
+12:53,0
+</td>
+<td class='ee117'>
+<input value="-" name="pA21C" id="pA21C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+3 mi est hs
+</td>
+<td class='ee115'>
+15:00,0
+</td>
+<td class='ee117'>
+<input value="-" name="pA22C" id="pA22C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+5k track
+</td>
+<td class='ee115'>
+14:11,2
+</td>
+<td class='ee117'>
+<input value="-" name="pA23C" id="pA23C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+5k road
+</td>
+<td class='ee115'>
+14:46,0
+</td>
+<td class='ee117'>
+<input value="-" name="pA24C" id="pA24C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+5k hs
+</td>
+<td class='ee115'>
+15:52,9
+</td>
+<td class='ee117'>
+<input value="-" name="pA25C" id="pA25C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+5k world jr
+</td>
+<td class='ee115'>
+14:45,9
+</td>
+<td class='ee117'>
+<input value="-" name="pA26C" id="pA26C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+4 mi road
+</td>
+<td class='ee115'>
+19:28,0
+</td>
+<td class='ee117'>
+<input value="-" name="pA27C" id="pA27C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+5 mi road
+</td>
+<td class='ee115'>
+24:27,0
+</td>
+<td class='ee117'>
+<input value="-" name="pA28C" id="pA28C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+10k track
+</td>
+<td class='ee115'>
+29:31,8
+</td>
+<td class='ee117'>
+<input value="-" name="pA29C" id="pA29C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+10k road
+</td>
+<td class='ee115'>
+30:21,0
+</td>
+<td class='ee117'>
+<input value="-" name="pA30C" id="pA30C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+half marathon
+</td>
+<td class='ee115'>
+1:06:25
+</td>
+<td class='ee117'>
+<input value="-" name="pA31C" id="pA31C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+10 miles road
+</td>
+<td class='ee115'>
+0:50:01
+</td>
+<td class='ee117'>
+<input value="-" name="pA32C" id="pA32C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+marathon
+</td>
+<td class='ee115'>
+2:15:25
+</td>
+<td class='ee117'>
+<input value="-" name="pA33C" id="pA33C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+marathon hs
+</td>
+<td class='ee115'>
+2:34:24
+</td>
+<td class='ee117'>
+<input value="-" name="pA34C" id="pA34C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+marathon jr
+</td>
+<td class='ee115'>
+2:23:27
+</td>
+<td class='ee117'>
+<input value="-" name="pA35C" id="pA35C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106'>
+2k erg LW
+</td>
+<td class='ee115'>
+06:56,7
+</td>
+<td class='ee117'>
+<input value="-" name="pA36C" id="pA36C" type="text" tabindex="-1" readonly="readonly"
+style='overflow:hidden; border:0px solid #000000; width:100% '
+class='ee118'>
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106' colspan="3">
+&nbsp;
+</td>
+<td class='ee106' colspan="2">
+&nbsp;
+</td>
+<td class='ee106'>
+&nbsp;
+</td>
+</tr>
+<tr style='height:13pt'> 
+<td class='ee106' colspan="6">
+&nbsp;
+</td>
+</tr>
+</table>
+<p></p>
+</div>
+
+
+<p>
+Uses: This is not a predictor; so if you just ran a 5:21 indoor mile, there is no indication that you would have run a 2:49 marathon that day. It is more useful for such comparisons as, "I can run an 800 in 2:30 and a half marathon in 1:40; which distance am I better at?"
+<p> 
+<b>Abbreviations:</b> y = yards; in = indoor; est = estimated (no official world record for this distance); hs = high school; jr = junior; LW = lightweight
+<p>
+<p align="center">Back to <a href="http://math.brown.edu/~diana/">Diana Davis</a></p>
+ 
+
+ 
+<script language="javascript" type="text/javascript">
+ function reset_onclick(x){document.formc.reset();postcode();recalc_onclick('');};function postcode(){};function eequerystring(){var querystring=document.location.search;if(querystring.length>0){variables=(querystring.substring(1)).split("&");var variable;var key;var value;for(var ii=0;ii<variables.length;ii++){variable=variables[ii].split("=");key=unescape(variable[0]);value=unescape(variable[1]);if(document.formc[key]!=null){document.formc[key].value=value;}}}}function initial_update(){postcode('');eequerystring();recalc_onclick('');}
+</script>
+<input type="hidden" name="xl_aux" value="begin-base64 666 C:\Users\Markus\AppData\Local\Temp\tmp40b59d.t1
+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
+53xoqnTSF75M8XCNZkQRL6F1JbBRiNp9/6Fs4z6Josq8/BQOTf04WEtXTXsl
+AsFDkPGwplPsApnvJmC5ejuLnUz7UTRpNQ+ly/NjTd3Uu8s80E+M64eJgKPy
+aIiyAXGhYkKMHlYPIFwXl2WCaJYI5gruRBdKIc5nNIbSjzFlQqQifdQ7PozN
+HmNT9yW+96E1CQ3mCLCMFAlhQ2luq1bt/zF6jmU0qbdRKKBRTa6PPqRNcvAx
+CbhFMgC0U5c+GwejXWVgNnqciFHYle6PWyLPqszFmdBWFZkAAappI0m8VQqG
+qUTqL1pvDC4p8kQyvHaq5HdtAQDtF5kQuiiXQEPpQeQZ6l+PA2/+HIeHPmu0
+ZExWEEIGjinYMeY3xQaH4UQ+r4BKmz+BYwogdrtV5/bO2UpAocGJIkJLOOFl
+GhsVSMUBcV1aQKq3ZM7tZy0nskj/hUCDea7fHtWta1rWta1rWta1rWwAVrWt
+a1rWta1rWta1rWta1rWta1rWta1rWta1rbV0Ni4KYbFpWNJQTojqQswJ6dzR
+ozS8JlDHWsmac/7aUsyWrtraJ4+bo1nkbDqPaaAahftEkAq1S8E74iiQiARA
+IcBDvKb+CAXQ3PePQdxgp8pE4Jo0ME4fXa3ZQjygyJ6WpwFePCPdzqJdLrJz
+qhQuiXNOixXcgowyy6tYJD1QzQrJtSdvG3ltHRK7SsgGyBSsyQUcSUKhs0xv
+pJXTsR3xQ9EPMNiIQyRD54Q3/1TMymAXud0y1RDVF3vRgs2BsCoeCIZZzPI2
+ipwBHAiYIvsPVtjcId4dIZOYh4QW+bafqqVr0b8BQObWSSSRG7ZjCZmzogQh
+VL9DSODs9Pqqv+qbwnYpxzPmOWWLwUWId1lnmkoyrZ6ZnGxzkIcpIa5QSLxg
+uKSZSJ4KgBZEIZFxHg0uyZTCAhddRCoEtWlTRs2ECoiQGiAlhQi1hcEMTXcf
+kKAi2H8QJsJhGpb3/RJNyu8CwEQzcX8dTHzw0bX9Fc4Zl6oRgleBQQ9ftgKq
+hIAoskiiwAWACjzIoqB0HTIAp0n5Ax1PNqKCiIqq4gWpvuIl7PJultgK4ZEn
+UJhhpBBy7BKKNqUU0EwVDAJHwNeigbPmEKdOmCdTIoGhtxKKYSeuSIYUp1qJ
+AqRDbYp4abAzdgVqV+Pbmmt+FJWvFB1i2ArQAsFoyygUatGOb9JEgT+XIMAQ
+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
+uSKcKEhDESI+AA==
+====
+">
+</form>
+
+
+<!-- SpreadsheetConverter Body end -->
+
+
+<noscript>The browser does not support JavaScript. The calculations created using  <a href='http://www.spreadsheetconverter.com/poweredby.htm' target='_blank'>SpreadsheetConverter</a>  will not work. Please access the web page using another browser.<p></p></noscript>
+</body>
+</html>

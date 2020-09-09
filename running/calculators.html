@@ -1,0 +1,149 @@
+<html><title>Running Calculators</title>
+<p align=center><font size=5>Running Calculators</font><br>
+Because Babylonian arithmetic is tedious.</p>
+<script language="javascript">
+<!-- begin 
+function pace() {
+
+a=eval(document.form.a.value); //miles
+c=eval(document.form.c.value); //minutes
+d=eval(document.form.d.value); //seconds
+ext=eval(document.form.ext.value); //extension distance
+extmins=eval(document.form.extmins.value); //extension minutes
+extsecs=eval(document.form.extsecs.value); //extension seconds
+
+e=((c+d/60)/a);  //pace with decimal
+f=Math.floor(e);     //whole number minutes
+g=(e-f)*60;          //seconds with decimal
+h=Math.round(g);     //whole number seconds
+
+fx=e*ext; //minutes for different distance 
+hh = Math.floor(fx/60); // whole number hours
+mm = Math.floor(fx-60*hh); // whole number minutes
+gx=Math.round((e*ext-fx)*60); //whole number seconds
+
+ffy=(extsecs/60+extmins)/e; //# of miles run
+
+document.form.min.value=f;
+document.form.sec.value=h;
+document.form.exthr.value=hh;
+document.form.extmin.value=mm;
+document.form.extsec.value=gx;
+document.form.extmiles.value=ffy; }
+
+//end -->
+</script>
+
+<form name="form">
+<font size=4><b>How fast did you go?</b></font><br>
+If you ran <input type="text" name="a" size="6"> miles in <input type="text" name="c" size="2">:<input type="text" name="d" size="2">,<br>
+
+you ran at a pace of <input type="button" value="Calculate" onClick="pace();"> <input type="text" name="min" size="1"> : <input type="text" name="sec" size="1"> per mile.
+<br>
+If you instead ran <input type="text" name="ext" size="2"> miles, it would take you <input type="button" value="Calculate" onClick="pace();"> <input type="text" name="exthr" size="1">:<input type="text" name="extmin" size="2">:<input type="text" name="extsec" size="1">.
+<br>
+If you instead ran for <input type="text" name="extmins" size="2">:<input type="text" name="extsecs" size="1">, you would go <input type="button" value="Calculate" onClick="pace();"> <input type="text" name="extmiles" size="3"> miles.
+</form>
+</p><p><p>
+
+<script language="javascript">
+<!-- begin 
+function dist() {
+
+j=eval(document.forma.j.value); //minutes
+k=eval(document.forma.k.value); //seconds
+l=eval(document.forma.l.value); //minutes
+m=eval(document.forma.m.value); //seconds
+
+n=(j+k/60);   //total minutes of run
+o=(l+m/60);        //total minutes of pace felt
+p=(n/o);           //miles of run with decimal
+
+document.forma.dis.value=p; }
+
+//end -->
+</script>
+
+<form name="forma">
+<font size=4><b>How far did you go?</b></font><br>
+If you ran for <input type="text" name="j" size="2">:<input type="text" name="k" size="2"> at a pace of <input type="text" name="l" size="2">:<input type="text" name="m" size="2"> seconds per mile,<br>
+you ran <input type="button" value="Calculate" onClick="dist();"> <input type="text" name="dis" size="4"> miles.
+
+</form>
+</p><p><p>
+
+
+
+<script language="javascript">
+<!-- begin 
+function time() {
+
+is=eval(document.formt.is.value); //miles
+ls=eval(document.formt.ls.value); //minutes
+ms=eval(document.formt.ms.value); //seconds
+
+n=Math.floor(is*(ls+ms/60)/60)
+p=Math.floor(60*(is*(ls+ms/60)/60-Math.floor(is*(ls+ms/60)/60)))
+r=Math.round(60*(60*(is*(ls+ms/60)/60-Math.floor(is*(ls+ms/60)/60))-Math.floor(60*(is*(ls+ms/60)/60-Math.floor(is*(ls+ms/60)/60)))))
+
+//n=is*(ls+ms/60)/60 //time in hours
+//o=Math.floor(n) //whole-number hours
+//p=(n-o) //fraction of hours leftover
+//q=Math.floor(60*p) //time left in minutes
+//r=(60*p-q)*60 //time left in seconds
+
+document.formt.hrs.value=n;
+document.formt.mins.value=p;
+document.formt.sec.value=r; }
+
+//end -->
+</script>
+
+<form name="formt">
+<font size=4><b>How long will it take?</b></font><br>
+If you run <input type="text" name="is" size="4"> miles
+
+at a pace of <input type="text" name="ls" size="2"> minutes and <input type="text" name="ms" size="2"> seconds per mile,<br>
+it will take you <input type="button" value="Calculate" onClick="time();"> <input type="text" name="hrs" size="2"> : <input type="text" name="mins" size="2"> : <input type="text" name="sec" size="2">.
+
+</form>
+</p><p><p>
+
+
+
+
+<script language="javascript">
+<!-- begin 
+function four() {
+
+km=eval(document.formf.km.value);   //kilometers
+mi=eval(document.formf.mi.value);   //minutes
+se=eval(document.formf.se.value);   //minutes
+
+pa=(60*mi+se)/(5*km);   //total energy expended
+
+document.formf.energy.value=pa; }
+
+//end -->
+</script>
+
+<form name="formf">
+
+<font size=4><b>Track pace</b></font><br>
+<input type="text" name="km" size="4"> kilometers in <input type="text" name="mi" size="3">:<input type="text" name="se" size="3"> is <input type="button" value="Calculate" onClick="four();"> <input type="text" name="energy" size="4"> per 200m.
+
+</form>
+</p><p><p>
+
+<hr>
+Popular distances:
+<br>3k = 1.86411358 miles
+<br>5k = 3.10685596 miles
+<br>6k = 3.72822715 miles
+<br>10k = 6.21371192 miles
+<br>12k = 7.45645431 miles
+<br>half marathon = 13.109375 miles
+<br>marathon = 26.21875 miles
+
+</p><p align=center><a href=http://www.math.northwestern.edu/~diana/>Home</a></p>
+</html>

@@ -1,0 +1,294 @@
+<html>
+
+<script language="javascript">
+<!-- begin 
+function pace() {
+
+b=eval(document.form.b.value); //WR minutes
+c=eval(document.form.c.value); //WR seconds
+e=eval(document.form.e.value); //your minutes
+f=eval(document.form.f.value); //your seconds
+
+p=((b+c/60)/(e+f/60));  //performance index
+//f=Math.floor(e);     //whole number minutes
+//g=(e-f)*60;          //seconds with decimal
+//h=Math.round(g);     //whole number seconds
+
+document.form.pi.value=p;  }
+
+//end -->
+</script>
+
+<form name="form">
+<font size=4><b>What is your performance index?</b></font><br>
+If the world record is <input type="text" name="b" size="3"> minutes and <input type="text" name="c" size="4"> seconds (put in a 1 below to find out)
+<br>
+and your time was <input type="text" name="e" size="3"> minutes and <input type="text" name="f" size="4"> seconds,<br>
+
+your performance index is <input type="button" value="Calculate" onClick="pace();"> <input type="text" name="pi" size="5"> (copy this and paste below).
+</form>
+
+
+
+
+
+
+
+<script language="javascript">
+<!-- begin 
+function converter() {
+
+ypi=eval(document.formwom.a.value); //your performance index
+
+wrwim=(4+20.5/60);      //women's indoor mile is 4:17.14 -- MDS ran 4:20.5
+ywim=(wrwim/ypi);        //your converted time in decimal minutes
+ywimm=Math.floor(ywim);  //your minutes
+ywims=(ywim-ywimm)*60;   //seconds with decimal
+
+wrwom=(4+16.71/60);      //women's outdoor mile is 4:12.56 -- MDS ran 4:16.71
+ywom=(wrwom/ypi);        //your converted time in decimal minutes
+ywomm=Math.floor(ywom);  //your minutes
+ywoms=(ywom-ywomm)*60;   //seconds with decimal
+
+wrwit=(8+23.72/60);      //women's indoor 3k is 8:23.72
+ywit=(wrwit/ypi);        //your converted time in decimal minutes
+ywitm=Math.floor(ywit);  //your women's outdoor mile minutes
+ywits=(ywit-ywitm)*60;   //seconds with decimal
+
+wrwtf=(14+11.15/60);      //women's track 5k is 14:11.15
+ywtf=(wrwtf/ypi);        //your converted time in decimal minutes
+ywtfm=Math.floor(ywtf);  //your minutes
+ywtfs=(ywtf-ywtfm)*60;   //seconds with decimal
+
+wrwrf=(14+46/60);      //women's road 5k is 14:46
+ywrf=(wrwrf/ypi);        //your converted time in decimal minutes
+ywrfm=Math.floor(ywrf);  //your minutes
+ywrfs=(ywrf-ywrfm)*60;   //seconds with decimal
+
+wrwfm=(24+27/60);      //women's five mile is 24:27
+ywfm=(wrwfm/ypi);        //your converted time in decimal minutes
+ywfmm=Math.floor(ywfm);  //your minutes
+ywfms=(ywfm-ywfmm)*60;   //seconds with decimal
+
+wrwrt=(30+21/60);      //women's road 10k is 30:21
+ywrt=(wrwrt/ypi);        //your converted time in decimal minutes
+ywrtm=Math.floor(ywrt);  //your minutes
+ywrts=(ywrt-ywrtm)*60;   //seconds with decimal
+
+wrwhm=(1+5/60+50/3600);              //women's half is 1:05:50
+ywhm=(wrwhm/ypi);                    //your converted time in decimal hours
+ywhmh=Math.floor(ywhm);              //your women's half hours
+ywhmm=Math.floor((ywhm-ywhmh)*60);  //your women's half minutes
+ywhms=((ywhm-ywhmh)*60-ywhmm)*60;  //seconds with decimal
+
+wrwmar=(2+15/60+25/3600);              //women's marathon is 2:15:25
+ywmar=(wrwmar/ypi);                    //your converted time in decimal hours
+ywmarh=Math.floor(ywmar);              //your women's marathon hours
+ywmarm=Math.floor((ywmar-ywmarh)*60);  //your women's marathon minutes
+ywmars=((ywmar-ywmarh)*60-ywmarm)*60;  //seconds with decimal
+
+
+
+wrmim=(3+48.85/60);      //men's indoor mile is 3:48.85
+ymim=(wrmim/ypi);        //your converted time in decimal minutes
+ymimm=Math.floor(ymim);  //your minutes
+ymims=(ymim-ymimm)*60;   //seconds with decimal
+
+wrmit=(7+24.90/60);      //men's indoor 3k is 7:24.90
+ymit=(wrmit/ypi);        //your converted time in decimal minutes
+ymitm=Math.floor(ymit);  //your minutes
+ymits=(ymit-ymitm)*60;   //seconds with decimal
+
+wrmif=(12+49.60/60);     //men's indoor 5k is 12:49.60
+ymif=(wrmif/ypi);        //your converted time in decimal minutes
+ymifm=Math.floor(ymif);  //your minutes
+ymifs=(ymif-ymifm)*60;   //seconds with decimal
+
+wrmrf=(13+0/60);     	//men's road 5k is 13:00
+ymrf=(wrmrf/ypi);        //your converted time in decimal minutes
+ymrfm=Math.floor(ymrf);  //your minutes
+ymrfs=(ymrf-ymrfm)*60;   //seconds with decimal
+
+wrmfm=(22+5/60);     	//men's road five mile is 22:05
+ymfm=(wrmfm/ypi);        //your converted time in decimal minutes
+ymfmm=Math.floor(ymfm);  //your minutes
+ymfms=(ymfm-ymfmm)*60;   //seconds with decimal
+
+wrmhm=(58/60+33/3600);              //men's half is 58:33
+ymhm=(wrmhm/ypi);                    //your converted time in decimal hours
+ymhmh=Math.floor(ymhm);              //your men's half hours
+ymhmm=Math.floor((ymhm-ymhmh)*60);  //your men's half minutes
+ymhms=((ymhm-ymhmh)*60-ymhmm)*60;  //seconds with decimal
+
+wrmmar=(2+3/60+59/3600);              //men's marathon is 2:03:59
+ymmar=(wrmmar/ypi);                    //your converted time in decimal hours
+ymmarh=Math.floor(ymmar);              //your men's marathon hours
+ymmarm=Math.floor((ymmar-ymmarh)*60);  //your men's marathon minutes
+ymmars=((ymmar-ymmarh)*60-ymmarm)*60;  //seconds with decimal
+
+
+document.formwom.n.value=ywimm;
+document.formwom.o.value=ywims;
+
+document.formwom.f.value=ywomm;
+document.formwom.g.value=ywoms;
+
+document.formwom.h.value=ywitm;
+document.formwom.i.value=ywits;
+
+document.formwom.u.value=ywrfm;
+document.formwom.v.value=ywrfs;
+
+document.formwom.mm.value=ywfmm;
+document.formwom.nn.value=ywfms;
+
+document.formwom.kk.value=ywtfm;
+document.formwom.ll.value=ywtfs;
+
+document.formwom.aa.value=ywrtm;
+document.formwom.bb.value=ywrts;
+
+document.formwom.w.value=ywhmh;
+document.formwom.x.value=ywhmm;
+document.formwom.y.value=ywhms;
+
+document.formwom.r.value=ywmarh;
+document.formwom.s.value=ywmarm;
+document.formwom.t.value=ywmars;
+
+
+
+document.formwom.p.value=ymimm;
+document.formwom.q.value=ymims; 
+ 
+document.formwom.j.value=ymifm;
+document.formwom.k.value=ymifs;  
+
+document.formwom.l.value=ymitm;
+document.formwom.m.value=ymits;  
+
+document.formwom.ff.value=ymrfm;
+document.formwom.gg.value=ymrfs;  
+
+document.formwom.oo.value=ymfmm;
+document.formwom.pp.value=ymfms;  
+
+document.formwom.cc.value=ymhmh;
+document.formwom.dd.value=ymhmm; 
+document.formwom.ee.value=ymhms; 
+
+document.formwom.hh.value=ymmarh;
+document.formwom.ii.value=ymmarm; 
+document.formwom.jj.value=ymmars;
+}
+
+//end -->
+</script>
+
+<hr>
+
+<form name="formwom">
+<font size=4><b>What is your equivalent performance?</b></font><br>
+
+If your performance index is <input type="text" name="a" size="5">, your:
+<input type="button" value="Calculate" onClick="converter();"> 
+
+<hr>
+
+<p>
+women's indoor mile is <input type="text" name="n" size="2">:<input type="text" name="o" size="5">*
+<br>
+women's outdoor mile is <input type="text" name="f" size="2">:<input type="text" name="g" size="5">*
+<br>
+women's indoor 3k is <input type="text" name="h" size="2">:<input type="text" name="i" size="5">
+<br>
+women's track 5k is <input type="text" name="kk" size="2">:<input type="text" name="ll" size="5">
+<br>
+women's road 5k is <input type="text" name="u" size="2">:<input type="text" name="v" size="5">
+<br>
+women's road 5 mile is <input type="text" name="mm" size="2">:<input type="text" name="nn" size="5">
+<br>
+women's road 10k is <input type="text" name="aa" size="2">:<input type="text" name="bb" size="5">
+<br>
+women's half marathon is <input type="text" name="w" size="2">:<input type="text" name="x" size="2">:<input type="text" name="y" size="5">*
+<br>
+women's marathon is <input type="text" name="r" size="2">:<input type="text" name="s" size="2">:<input type="text" name="t" size="5">
+<br>
+
+<hr>
+
+men's indoor mile is <input type="text" name="p" size="2">:<input type="text" name="q" size="5">
+<br>
+men's indoor 3k is <input type="text" name="l" size="2">:<input type="text" name="m" size="5">
+<br>
+men's indoor 5k is <input type="text" name="j" size="2">:<input type="text" name="k" size="5">
+<br>
+men's road 5k is <input type="text" name="ff" size="2">:<input type="text" name="gg" size="5">
+<br>
+men's road 5 mile is <input type="text" name="oo" size="2">:<input type="text" name="pp" size="5">
+<br>
+men's half marathon is <input type="text" name="cc" size="2">:<input type="text" name="dd" size="2">:<input type="text" name="ee" size="5">
+<br>
+men's marathon is <input type="text" name="hh" size="2">:<input type="text" name="ii" size="2">:<input type="text" name="jj" size="5">
+
+</form>
+
+
+Sources for times: <a href="http://www.trackandfieldnews.com/records/">Track and Field News records</a> (standard distances) and <a href="http://www.gbrathletics.com/wrec.htm">Athletics Weekly records</a> (standard plus extra distances)
+<br><br>
+
+<hr>
+
+<script language="javascript">
+<!-- begin 
+function ratio() {
+
+ab=eval(document.formratio.ab.value); //numerator minutes
+ac=eval(document.formratio.ac.value); //numerator seconds
+ae=eval(document.formratio.ae.value); //denominator minutes
+af=eval(document.formratio.af.value); //denominator seconds
+
+ap=((ab+ac/60)/(ae+af/60));  //performance index
+
+document.formratio.pi.value=ap;  }
+
+//end -->
+</script>
+
+<form name="formratio">
+<font size=4><b>To compute the ratio of two times:</b></font><br>
+Numerator time: <input type="text" name="ab" size="3"> : <input type="text" name="ac" size="4">
+<br>
+Denominator time: <input type="text" name="ae" size="3"> : <input type="text" name="af" size="4"> <br>
+
+The ratio is <input type="button" value="Calculate" onClick="ratio();"> <input type="text" name="pi" size="5">.
+</form>
+The ratio of men's to women's world records is between 0.88 and 0.91.
+<br>
+<hr>
+<p>
+<b>FAQ: How does this work?</b><br>
+To get your "performance index," the world record for the event is divided by your time. To find an equivalent performance, divide the world record by your performance index.<br>
+<b>Easy example</b>: Suppose that you are male and you run a 4:08 marathon. The world record for the men's marathon is 2:04, so your performance index would be 2:04/4:08 = 0.5. To find an equivalent performance in the men's road 5k, divide the men's road 5k world record of 13:00 by your performance index of 0.5: 13:00/0.5 = 26:00.<br>
+<b>Hard example</b>: I just ran 10:07.56 for the women's indoor 3k. So I divide the women's indoor 3k world record of 8:23.72 by my time: 8:23.72/10:07.56 = 0.829. Now I want to know what an equivalent performance in the indoor mile is, so I divide the women's indoor mile record of 4:17.14 by my performance index: 4:17.14/0.829 = 5:10.2.<br>
+<p>
+<b>FAQ: Can I use this to predict future performances?</b><br>
+You can, and I do. However, a better question is whether it is accurate in its predictions. You can use it to predict your mile time from your 3k time, but not your marathon time from your 3k time. Also, if the world record in a particular event was set while the runner was using performance-enhancing drugs, it will predict a faster-than-warranted finishing time in that event, and will similarly give you a lower-than-warranted performance index.*
+<br>Outside resources for predicting race times based on previous race times: 
+<br>- Team Oregon has a chart of <a href="http://www.teamoregon.com/publication/online/effort.pdf">equivalent performances</a>, and a <a href="http://www.teamoregon.com/publication/online/wizard.php">pace wizard</a> that you can use with your own times.
+<br>- The very detailed IAAF scoring tables, <a href="http://www.iaaf.org/mm/Document/Competitions/TechnicalArea/ScoringIndoor2008_743.pdf">indoor (PDF)</a> and <a href="http://www.iaaf.org/mm/Document/Competitions/TechnicalArea/ScoringOutdoor2008_742.pdf">outdoor (PDF)</a>.
+<br>- The <a href="http://www.letsrun.com/2007/jkconversion.pdf">Letsrun conversion table</a>.
+
+<p>
+* I am personally recognizing the following marks as the valid women's world records:
+<br>1500m 3:56 
+<br>Mile o-4:16.71 i-4:20.5
+<br>3000m o-8:21.42
+<br>10,000m 29:53.80
+<br><i>These times are not recognized as world records by the IAAF because someone on performance-enhancing drugs ran faster.</i>
+
+<p align="center">
+Return to <a href="http://www.math.northwestern.edu/~diana/">Diana Davis</a>
+</p>
+
+</html>
